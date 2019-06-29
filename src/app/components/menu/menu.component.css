@@ -1,0 +1,11 @@
+.imgNav {
+  color:white;
+}
+.menu{
+  display: inline;
+}
+
+.menu > li {
+  padding-right: 15px;
+  display: inline-block;
+}
